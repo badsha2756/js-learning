@@ -29,7 +29,7 @@
       console.log(car);
       console.log(car.type);       // printing variables property values
       console.log(car.color);
-     
+           
       let y=null    // null data
       let z=undefined  // undefined data
       let s;      
